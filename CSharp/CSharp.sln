@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{0F5A8D82-D5A0-4F09-B693-779068FF8775}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryAllocations", "MemoryAllocations\MemoryAllocations.csproj", "{C94288BD-0530-4F40-98F6-B1A3E45D3614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0F5A8D82-D5A0-4F09-B693-779068FF8775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F5A8D82-D5A0-4F09-B693-779068FF8775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F5A8D82-D5A0-4F09-B693-779068FF8775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94288BD-0530-4F40-98F6-B1A3E45D3614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94288BD-0530-4F40-98F6-B1A3E45D3614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94288BD-0530-4F40-98F6-B1A3E45D3614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94288BD-0530-4F40-98F6-B1A3E45D3614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
